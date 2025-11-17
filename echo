@@ -1,1 +1,1 @@
-echo "#p m06/genecp pop=(chelpg,readradii) empiricaldispersion=(gd3) Ru=2.46" >> *com*
+for i in *com* ; do echo "#p m06/genecp pop=(chelpg,readradii) empiricaldispersion=(gd3) Ru=2.46" >> $i ; done
