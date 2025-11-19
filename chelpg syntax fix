@@ -1,0 +1,1 @@
+sed -i 's/pop=chelpg,readradii/pop=(chelpg,readradii)/g' *com*
