@@ -1,1 +1,1 @@
-sed 's/R u = 2 . 4 6/Ru=2.46/g' *com*
+sed -i's/R u = 2 . 4 6/Ru=2.46/g' *com*
