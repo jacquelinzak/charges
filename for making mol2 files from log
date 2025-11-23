@@ -1,0 +1,1 @@
+for i in *.log* ; do obabel -i log $i -o mol2 -O ${i%.log}MM.mol2 ; done
